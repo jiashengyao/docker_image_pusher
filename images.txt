@@ -1,1 +1,1 @@
-mysql:8.4.2
+linuxserver/calibre:7.18.0
